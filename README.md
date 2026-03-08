@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🌱 Third-year IT and Telecommunications student at IIS G. Vallauri.<br>🍫 Cybersecurity internship at Ferrero (Summer 2025).<br>🔧 Passionate about hardware, coding and AI.
 
 
